@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0128-longest-consecutive-sequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0594-longest-harmonious-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2364-count-number-of-bad-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
