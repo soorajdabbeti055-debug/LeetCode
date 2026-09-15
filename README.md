@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0594-longest-harmonious-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2592-maximize-greatness-of-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
@@ -29,15 +31,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0594-longest-harmonious-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
