@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Binary Search
 |  |
 | ------- |
