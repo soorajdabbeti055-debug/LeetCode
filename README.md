@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0018-4sum) |
 | [0128-longest-consecutive-sequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
