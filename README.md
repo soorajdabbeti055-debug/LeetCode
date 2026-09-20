@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2540-minimum-common-value) |
 | [2592-maximize-greatness-of-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2644-find-the-maximum-divisibility-score) |
+| [2706-buy-two-chocolates](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2592-maximize-greatness-of-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
+| [2706-buy-two-chocolates](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2592-maximize-greatness-of-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
+| [2706-buy-two-chocolates](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
