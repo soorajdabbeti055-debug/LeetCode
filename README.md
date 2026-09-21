@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0018-4sum) |
+| [0078-subsets](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0078-subsets) |
 | [2206-divide-array-into-equal-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Math
 |  |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0739-daily-temperatures) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
