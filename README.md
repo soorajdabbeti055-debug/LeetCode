@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2364-count-number-of-bad-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2540-minimum-common-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2540-minimum-common-value) |
 ## Counting
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2364-count-number-of-bad-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 ## Union-Find
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Trie
 |  |
 | ------- |
