@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0018-4sum) |
 | [0078-subsets](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0300-longest-increasing-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2540-minimum-common-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2540-minimum-common-value) |
 ## Heap (Priority Queue)
@@ -128,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
