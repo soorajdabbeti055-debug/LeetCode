@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0560-subarray-sum-equals-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0739-daily-temperatures) |
@@ -32,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0018-4sum) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2540-minimum-common-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2540-minimum-common-value) |
 | [2592-maximize-greatness-of-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
 ## Greedy
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2592-maximize-greatness-of-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2706-buy-two-chocolates) |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0018-4sum) |
 | [0368-largest-divisible-subset](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -135,10 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0739-daily-temperatures) |
 ## Backtracking
 |  |
