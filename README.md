@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2706-buy-two-chocolates](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2706-buy-two-chocolates) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1248-count-number-of-nice-subarrays](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
