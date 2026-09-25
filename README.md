@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2540-minimum-common-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2540-minimum-common-value) |
 | [2592-maximize-greatness-of-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2540-minimum-common-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2540-minimum-common-value) |
 ## Counting
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 ## Union-Find
 |  |
