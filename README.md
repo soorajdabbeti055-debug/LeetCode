@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0007-reverse-integer) |
 | [0368-largest-divisible-subset](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1248-count-number-of-nice-subarrays](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
