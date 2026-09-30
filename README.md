@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2364-count-number-of-bad-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2540-minimum-common-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2540-minimum-common-value) |
 ## Counting
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2364-count-number-of-bad-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Union-Find
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0078-subsets) |
 | [2206-divide-array-into-equal-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2351-first-letter-to-appear-twice](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Trie
 |  |
