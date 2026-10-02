@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0706-design-hashmap](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0739-daily-temperatures) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0706-design-hashmap](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0706-design-hashmap) |
 | [0930-binary-subarrays-with-sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -227,8 +229,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0155-min-stack) |
+| [0706-design-hashmap](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0706-design-hashmap) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
