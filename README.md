@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2540-minimum-common-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2540-minimum-common-value) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2592-maximize-greatness-of-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2364-count-number-of-bad-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2540-minimum-common-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2540-minimum-common-value) |
 ## Counting
 |  |
