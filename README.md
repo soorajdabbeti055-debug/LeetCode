@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
+| [2485-find-the-pivot-integer](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Binary Search
 |  |
 | ------- |
