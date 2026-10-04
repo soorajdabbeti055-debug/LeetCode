@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0825-friends-of-appropriate-ages](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
+| [0904-fruit-into-baskets](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0706-design-hashmap](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0706-design-hashmap) |
+| [0904-fruit-into-baskets](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
