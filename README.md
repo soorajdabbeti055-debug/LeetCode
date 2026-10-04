@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0706-design-hashmap](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0724-find-pivot-index) |
