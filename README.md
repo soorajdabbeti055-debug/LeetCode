@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2592-maximize-greatness-of-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2706-buy-two-chocolates) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Stack
 |  |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -264,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
