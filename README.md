@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0769-max-chunks-to-make-sorted](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0825-friends-of-appropriate-ages](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
