@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0769-max-chunks-to-make-sorted](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2592-maximize-greatness-of-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2706-buy-two-chocolates) |
