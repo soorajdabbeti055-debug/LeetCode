@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2540-minimum-common-value) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2592-maximize-greatness-of-an-array](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2364-count-number-of-bad-pairs](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2540-minimum-common-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3663-find-the-least-frequent-digit](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bit Manipulation
 |  |
 | ------- |
