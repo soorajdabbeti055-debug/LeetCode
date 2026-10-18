@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0706-design-hashmap](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
@@ -309,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0056-merge-intervals) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
