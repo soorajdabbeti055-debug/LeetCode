@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0300-longest-increasing-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0056-merge-intervals) |
 | [0368-largest-divisible-subset](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
