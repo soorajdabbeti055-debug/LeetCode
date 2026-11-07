@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1446-consecutive-characters](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1446-consecutive-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/soorajdabbeti055-debug/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
